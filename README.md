@@ -10,8 +10,8 @@
 - 🌱 I’m learning **Python,and DFIR tools** using DFIR DIVA's 5 week free-incident-response-training-plan
 - CTF Player
 - 👯 I’m looking to collaborate on **Cybersecurity projects**
-- 💬 Ask me about **threat detection, SIEM, and incident response**
-- 📫 Reach me at **your.email@example.com**
+- 💬 Ask me about **threat detection, digital forensics, and incident response**
+- 📫 Reach me at **wakirowambui@gmail.com**
 - ⚡ Fun fact: *I drink tea like logs drink packets 😅*
 
 ---
