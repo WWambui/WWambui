@@ -8,7 +8,7 @@
 ### 🚀 About Me
 - 🔭 Cybersecurity Enthusiast | **Driven by a Love for the Discipline**
 - 🌱 I’m learning **Python, DFIR, windows and memory forensics** using **DFIR DIVA's 5 week free-incident-response-training-plan**
-- CTF Player acroos different platforms (tryhackme, cybertalents, btlo)
+- 🕹️ CTF Player acroos different platforms (tryhackme, cybertalents, btlo)
 - 👯 I’m looking to collaborate on **Cybersecurity projects**
 - 💬 Ask me about **threat detection, digital forensics, and incident response**
 - 📫 Reach me at **wakirowambui@gmail.com**
