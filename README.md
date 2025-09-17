@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Barnice Wakiro</h1>
-<h3 align="center">**Cybersecurity | SOC Analyst | DFIR|**</h3>
+<h3 align="center">Cybersecurity | SOC Analyst | DFIR|</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajneeshraj/rajneeshraj/master/code.gif">
 
